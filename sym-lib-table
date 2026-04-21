@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TAD5142") (type "KiCad") (uri "${KIPRJMOD}/library/TAD5142/2026-03-23_16-26-19.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCPCB_Amplifiers") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Amplifiers.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCPCB_Connectors") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Connectors.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCPCB_Global_Sourcing_Parts") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Global_Sourcing_Parts.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCPCB_Power_Management_ICs") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Power_Management_ICs.kicad_sym") (options "") (descr ""))
+)
