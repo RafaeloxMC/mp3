@@ -1,0 +1,125 @@
+(footprint "CKCS_BS-01"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "30199917-a256-4f0a-8a5d-4b4f2d464068")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CKCS_BS-01"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0cc98180-1377-481b-ade5-867037f6789e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc9af77f-3c87-4e9c-84c1-72e3d0a0d1d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9492b0a-d283-4427-aea3-8e4f3fbec9fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -11.000017 -5.499502)
+		(end 10.999983 5.500498)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "aeebae25-3325-4f34-ba82-7e7cf1970a7c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "12af05b9-3865-4637-a295-d3018f197a13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -9.1 4.05)
+		(size 2.54 1.27)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a71c716e-2928-4c80-aa09-a01d5b6de2a2")
+	)
+	(pad "2" thru_hole oval
+		(at -9.1 0.050498)
+		(size 2.54 1.27)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cce58f69-e302-43b5-bda9-5ecf001348ec")
+	)
+	(pad "3" thru_hole oval
+		(at 8.9 4.05)
+		(size 2.54 1.27)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8950d310-7fb0-44f9-860c-bd979f10e49c")
+	)
+	(pad "4" thru_hole oval
+		(at 8.9 -4.09)
+		(size 2.54 1.27)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5ee1256b-4c45-45b0-89b3-60d7542c7d22")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/CKCS_BS-01.3dshapes/CKCS BS01 MT-3608 Boost Converter.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -6,4 +6,5 @@
 	(lib (name "JLCPCB_Connectors") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Connectors.pretty") (options "") (descr ""))
 	(lib (name "JLCPCB_Global_Sourcing_Parts") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Global_Sourcing_Parts.pretty") (options "") (descr ""))
 	(lib (name "JLCPCB_Power_Management_ICs") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Power_Management_ICs.pretty") (options "") (descr ""))
+	(lib (name "CKCS_BS-01") (type "KiCad") (uri "${KIPRJMOD}/library/CKCS_BS-01.pretty") (options "") (descr ""))
 )
