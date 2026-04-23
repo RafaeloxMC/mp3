@@ -11954,7 +11954,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N5817")
-		(at 134.62 83.82 180)
+		(at 134.62 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11965,7 +11965,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed81fc1f-3ca4-4e50-953b-2f6ddea3e803")
 		(property "Reference" "D1"
-			(at 134.9375 77.47 0)
+			(at 134.3025 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11975,7 +11975,7 @@
 			)
 		)
 		(property "Value" "1N5817"
-			(at 134.9375 80.01 0)
+			(at 134.3025 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11985,7 +11985,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 134.62 79.375 0)
+			(at 134.62 88.265 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
