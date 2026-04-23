@@ -6,4 +6,6 @@
 	(lib (name "JLCPCB_Global_Sourcing_Parts") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Global_Sourcing_Parts.kicad_sym") (options "") (descr ""))
 	(lib (name "JLCPCB_Power_Management_ICs") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Power_Management_ICs.kicad_sym") (options "") (descr ""))
 	(lib (name "CKCS_BS-01") (type "KiCad") (uri "${KIPRJMOD}/library/CKCS_BS-01.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCPCB_Misc") (type "KiCad") (uri "${KIPRJMOD}/library/JLCPCB_Misc.kicad_sym") (options "") (descr ""))
+  (lib (name "2026-03-23_19-14-48")(type "KiCad")(uri "${KIPRJMOD}/library/NJM4556AD/2026-03-23_19-14-48.kicad_sym")(options "")(descr ""))
 )
