@@ -485,3 +485,25 @@ I also added a hole through which the on/off switch can be used.
 ### Recording Links
 
 - none
+
+## Entry 14
+
+- ID: 
+- Author: xvcf
+- Created At: 2026-09-8T00:00:00Z
+- Time Spent: 22m (0.4h)
+
+### Content
+
+### Closing mechanism
+
+Heya! Today I added some sort of "closing mechanism" to the case, if you can call it that! It's pretty much just a plastic piece that slides under another one, so the case can only open to the bottom, where it's closed with two screws. This should hopefully work. Due to this being my first real CAD project, I don't have too much experience with stuff like this, so I'll see :D
+This is a photo of what I mean:
+![image.png](https://cdn.hackclub.com/01a080fd-4c48-7eb7-ab9a-7246d696ce51/image.png)
+The piece that "goes around the corner" is attached to the top of the case, while the other part is attached to the side wall of the case. This is symmetrical on both sides.
+
+I'll be asking for a quick sanity check for this project and then I'll ship it!
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/2fAPRgbQSkbr
