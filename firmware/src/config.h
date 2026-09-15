@@ -1,0 +1,50 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define PIN_SD_SCK 2
+#define PIN_SD_MOSI 3
+#define PIN_SD_MISO 4
+#define PIN_SD_CS 5
+#define SD_SPI_PORT spi0
+#define SD_BAUD_RATE_HZ (20 * 1000 * 1000)
+#define PIN_SD_DET 22
+#define SD_DET_PRESENT_VALUE 0
+
+#define PIN_BTN_UP 6
+#define PIN_BTN_DOWN 7
+#define PIN_BTN_LEFT 8
+#define PIN_BTN_RIGHT 9
+#define PIN_BTN_SELECT 10
+#define PIN_BTN_BACK 11
+
+#define PIN_SCREEN_MISO 12
+#define PIN_SCREEN_CS 13
+#define PIN_SCREEN_SCK 14
+#define PIN_SCREEN_MOSI 15
+#define SCREEN_SPI_PORT spi1
+#define SCREEN_SPI_BAUD_RATE_HZ (32 * 1000 * 1000)
+#define PIN_SCREEN_RESET 19
+#define PIN_SCREEN_DC 20
+#define PIN_SCREEN_BACKLIGHT 21
+
+#define PIN_I2S_BCLK 16
+#define PIN_I2S_LRCLK 17
+#define PIN_I2S_DOUT 18
+
+#define SCREEN_WIDTH 128
+#define SCREEN_HEIGHT 160
+
+#define AUDIO_SAMPLE_RATE_MAX 48000
+#define AUDIO_CHANNELS 2
+
+#define VOLUME_MIN 0
+#define VOLUME_MAX 100
+#define VOLUME_DEFAULT 60
+
+#define COVER_ART_MAX_SIZE 96
+
+#define BUTTON_DEBOUNCE_MS 30
+#define BUTTON_REPEAT_START_MS 400
+#define BUTTON_REPEAT_INTERVAL_MS 120
+
+#endif
